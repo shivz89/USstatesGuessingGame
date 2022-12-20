@@ -1,2 +1,2 @@
 "# USstatesGuessingGame" 
-to run the game **python us-states-game-start\main.py**
+to run the game **python main.py**
